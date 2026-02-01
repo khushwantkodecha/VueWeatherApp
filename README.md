@@ -1,24 +1,14 @@
-# weather-app
+# VueWeatherApp
 
-## Project setup
-```
-npm install
-```
+Real-time weather application built with Vue.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Overview
+Displays real-time weather information using public APIs.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Key Features
+- API integration
+- Reactive UI updates
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Tech Stack
+- Vue.js
+- JavaScript
